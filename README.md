@@ -1,4 +1,7 @@
-# ⚖️ دستیار هوشمند جستجوی علائم تجاری (نسخه ۶ - هوش تجاری)
+<img width="2875" height="1706" alt="image" src="https://github.com/user-attachments/assets/7140c62c-0ea7-4f89-af56-1a577e5ef464" />
+
+
+⚖️ دستیار هوشمند جستجوی علائم تجاری (نسخه ۶ - هوش تجاری)
 # Iranian Trademark Intelligent Search Assistant (BI Edition)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
