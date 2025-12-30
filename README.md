@@ -93,5 +93,5 @@ python TrademarkApp_V6_BI.py
 ### نصب
 ۱. مخزن را کلون کنید:
 ```bash
-git clone [https://github.com/farhikhteh10/ranian-Trademark-Intelligent-Search-Assistant.git](https://github.com/farhikhteh10/ranian-Trademark-Intelligent-Search-Assistant.git)
+git clone https://github.com/farhikhteh10/ranian-Trademark-Intelligent-Search-Assistant.git
 cd ranian-Trademark-Intelligent-Search-Assistant
