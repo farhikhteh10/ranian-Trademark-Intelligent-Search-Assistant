@@ -52,11 +52,6 @@
 * پایتون نسخه ۳.۸ یا بالاتر
 * مرورگر Google Chrome
 
-### نصب
-۱. مخزن را کلون کنید:
-```bash
-git clone [https://github.com/farhikhteh10/Trademark-Search-Assistant.git](https://github.com/farhikhteh10/Trademark-Search-Assistant.git)
-cd Trademark-Search-Assistant
 ۲. کتابخانه‌های مورد نیاز را نصب کنید:
 Bash
 
@@ -107,4 +102,10 @@ python TrademarkApp_V6_BI.py
 
     لطفاً در استفاده از آن، قوانین و مقررات وب‌سایت هدف (ipm.ssaa.ir) را رعایت فرمایید.
 
-    ارسال درخواست‌های بیش از حد (DDoS) ممکن است منجر به مسدود شدن IP شما شود. (نرم‌افزار دارای مکانیزم تأخیر داخلی است، اما احتیاط شرط عقل است).
+    ارسال درخواست‌های بیش از حد (DDoS) ممکن است منجر به مسدود شدن IP شما شود. (نرم‌افزار دارای مکانیزم تأخیر داخلی است، اما احتیاط شرط عقل است)
+### نصب
+۱. مخزن را کلون کنید:
+```bash
+git clone [https://github.com/farhikhteh10/Trademark-Search-Assistant.git](https://github.com/farhikhteh10/Trademark-Search-Assistant.git)
+cd Trademark-Search-Assistant
+```bash.
